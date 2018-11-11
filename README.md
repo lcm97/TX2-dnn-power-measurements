@@ -3,7 +3,7 @@ This project measures power of the TX2 board processing DNN models(take two stre
 
 ## Nvpmodel
 Nvpmodel introduces five different “modes” on the Jetson TX2. To summarize:
-![](https://developer.ridgerun.com/wiki/index.php?title=File:NVPmodes.png)
+![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiM9-_Q_MveAhUkTd8KHcxpDk0QjRx6BAgBEAU&url=https%3A%2F%2Fdeveloper.ridgerun.com%2Fwiki%2Findex.php%3Ftitle%3DNvidia_TX2_NVP_model&psig=AOvVaw0pW1vuT1KDQLe_okuppVs-&ust=1542013105748107)
 
 To call nvpmodel:
 
@@ -37,5 +37,6 @@ Make sure all dependencies is installed before running.
 
 ## Reference
 [1] "Convenient Power Measurements on the Jetson TX2/Tegra X2 Board" url:https://embeddeddl.wordpress.com/2018/04/25/convenient-power-measurements-on-the-jetson-tx2-tegra-x2-board/
+
 [2] "NVPModel – NVIDIA Jetson TX2 Development Kit" url:https://www.jetsonhacks.com/2017/03/25/nvpmodel-nvidia-jetson-tx2-development-kit/
 
