@@ -1,4 +1,4 @@
-# TX2-dnn-power-easurements
+# TX2-dnn-power-measurements
 This project measures power of the TX2 board processing DNN models(take two stream cnn as an example). NVIDIA is providing a command line tool 'nvpmodel' which takes out a lot of the guess work in configuring the CPU and GPU settings to maximize performance and energy usage under different scenarios
 
 ## Nvpmodel
