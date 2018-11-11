@@ -1,7 +1,5 @@
 """
 Convient power measurement script for the Jetson TX2/Tegra X2.
-relevant docs: http://developer2.download.nvidia.com/embedded/L4T/r27_Release_v1.0/Docs/Tegra_Linux_Driver_Package_Release_Notes_R27.1.pdf
-@author: Lukas Cavigelli (cavigelli@iis.ee.ethz.ch)
 """
 import os
 from Two_stream_model import two_stream_model
@@ -212,8 +210,7 @@ if __name__ == "__main__":
     pl = PowerLogger(interval=0.05, nodes=list(filter(lambda n: n[0].startswith('module/'), getNodes())))
     pl.start()
     #time.sleep(1)
-    pl.recordEvent('ding! 3s')
-    # os.system('stress -c 12 -t 3')
+    pl.recordEvent('run model!')
 
     for i in range(50):
         result = model.predict([np.expand_dims(test_data[0], axis=0),
