@@ -2,8 +2,7 @@
 This project measures power of the TX2 board processing DNN models(take two stream cnn as an example). NVIDIA is providing a command line tool 'nvpmodel' which takes out a lot of the guess work in configuring the CPU and GPU settings to maximize performance and energy usage under different scenarios
 
 ## Nvpmodel
-Nvpmodel introduces five different “modes” on the Jetson TX2. To summarize:
-![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiM9-_Q_MveAhUkTd8KHcxpDk0QjRx6BAgBEAU&url=https%3A%2F%2Fdeveloper.ridgerun.com%2Fwiki%2Findex.php%3Ftitle%3DNvidia_TX2_NVP_model&psig=AOvVaw0pW1vuT1KDQLe_okuppVs-&ust=1542013105748107)
+Nvpmodel introduces five different “modes” on the Jetson TX2. To summarize:![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiM9-_Q_MveAhUkTd8KHcxpDk0QjRx6BAgBEAU&url=https%3A%2F%2Fdeveloper.ridgerun.com%2Fwiki%2Findex.php%3Ftitle%3DNvidia_TX2_NVP_model&psig=AOvVaw0pW1vuT1KDQLe_okuppVs-&ust=1542013105748107)
 
 To call nvpmodel:
 
