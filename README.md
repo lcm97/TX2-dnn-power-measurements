@@ -42,7 +42,7 @@ Make sure all dependencies is installed before running.The reports will show as 
 
 ###CPU version
 
-![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/cpu_versin.png)
+![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/cpu_version.png)
 
 ## Reference
 [1] "Convenient Power Measurements on the Jetson TX2/Tegra X2 Board" url:https://embeddeddl.wordpress.com/2018/04/25/convenient-power-measurements-on-the-jetson-tx2-tegra-x2-board/
