@@ -38,11 +38,11 @@ Make sure all dependencies is installed before running.The reports will show as 
 
 ###GPU version
 
-![alt text](https://developer.ridgerun.com/wiki/images/c/cd/NVPmodes.png)
+![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/gpu_versin.png)
 
 ###CPU version
 
-![alt text](https://developer.ridgerun.com/wiki/images/c/cd/NVPmodes.png)
+![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/cpu_versin.png)
 
 ## Reference
 [1] "Convenient Power Measurements on the Jetson TX2/Tegra X2 Board" url:https://embeddeddl.wordpress.com/2018/04/25/convenient-power-measurements-on-the-jetson-tx2-tegra-x2-board/
