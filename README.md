@@ -36,11 +36,11 @@ CUDA_VISIBLE_DEVICE="" python tx2_predict.py
 
 Make sure all dependencies is installed before running.The reports will show as something like below:
 
-###GPU version
+### GPU version
 
 ![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/gpu_versin.png)
 
-###CPU version
+### CPU version
 
 ![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/cpu_version.png)
 
