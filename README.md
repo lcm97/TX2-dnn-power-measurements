@@ -24,7 +24,7 @@ We can develop some code to read out these sensors to perform power measurements
 
 ## QuickStart
 
-Remember that the Jetson TX2 consists of a GPU along with a CPU cluster.Go to the tx2-power-measurements directory,the tx2_predict.py script with two stream cnn model executes 50 inferences. Then it reports the power measurements.Use the commands below to excute CPU and GPU versions:
+Remember that the Jetson TX2 consists of a GPU along with a CPU cluster.Go to the *tx2-power-measurements* directory,the *tx2_predict.py* script with two stream cnn model executes 50 inferences. Then it reports the power measurements.Use the commands below to excute CPU and GPU versions:
 
 *GPU version
 
