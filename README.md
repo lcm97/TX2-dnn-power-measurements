@@ -45,7 +45,7 @@ Make sure all dependencies is installed before running.The reports will show as 
 ![alt text](https://github.com/lcm97/TX2-dnn-power-measurements/blob/master/cpu_version.png)
 
 ## Reference
-[1] "Convenient Power Measurements on the Jetson TX2/Tegra X2 Board" url:https://embeddeddl.wordpress.com/2018/04/25/convenient-power-measurements-on-the-jetson-tx2-tegra-x2-board/
+[1] JetsonHacks url:https://www.jetsonhacks.com/
 
 [2] "NVPModel – NVIDIA Jetson TX2 Development Kit" url:https://www.jetsonhacks.com/2017/03/25/nvpmodel-nvidia-jetson-tx2-development-kit/
 
